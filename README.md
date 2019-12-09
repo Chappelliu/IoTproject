@@ -1,4 +1,4 @@
-# IoTproject
+# IoT project
 # Run the server one first and then the client. 
 ```sh
 Python3 ASL_server.py
